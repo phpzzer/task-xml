@@ -1,0 +1,13 @@
+{
+    "name": "user/public",
+    "type": "library",
+    "authors": [
+        {
+            "name": "UserName",
+            "email": "mail@mail.ru"
+        }
+    ],
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
